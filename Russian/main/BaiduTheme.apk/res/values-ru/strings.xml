@@ -322,7 +322,7 @@ Baidu оставляет за собой следующее содержимое
     <string name="download_failed_toast">Сбой загрузки</string>
     <string name="download_network_invalid_toast">Сеть недоступна, попробуйте позже</string>
     <string name="online">Онлайн</string>
-    <string name="local">Локально</string>
+    <string name="local">В телефоне</string>
     <string name="now_wallpaper">Используется</string>
     <string name="dowloaded_wallpaper">Загружено</string>
     <string name="dowloaded_wallpaper_failed">Сбой загрузки %1$s</string>
