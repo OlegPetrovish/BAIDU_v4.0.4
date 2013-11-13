@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Местоположение</string>
+    <string name="app_label">Местоположение</string>
+    <string name="location_warning_title">Разрешение отслеживания</string>
+    <string name="location_warning_title_first">Разрешение отслеживания местоположения</string>
+    <string name="location_warning_title_close">Разрешение отслеживания местоположения</string>
+    <string name="location_warning_message">"Разрешить Baidu собирать анонимные данные о местоположении. Некоторые из них могут храниться на устройстве. Сбор сведений может проходить даже тогда, когда ни одно из приложений не запущено. Данные включают в себя: 
+- ID, Сила сигнал Wi-Fi; 
+- ID, Сила сигнала периферийной базовой станции (GSM); 
+- ID, Сила сигнала периферийной базовой станции(CDMA);"</string>
+    <string name="location_close_warning_message">Закрытая служба сетевого местоположения может запросить данные любого приложения</string>
+    <string name="location_first_warning_message">Для того, что бы улучшить работу Вашего устройства, система автоматически откроет службы сетевого местоположения</string>
+    <string name="agree">Согласен</string>
+    <string name="disagree">Несогласен</string>
+    <string name="close_agree">Да</string>
+    <string name="close_disagree">Нет</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_entries">
+        <item>время закрытия</item>
+        <item>после 10 мин</item>
+        <item>после30 мин</item>
+        <item>после60 мин</item>
+        <item>после90 мин</item>
+    </string-array>
+    <string-array name="list_entries_value">
+        <item>0</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="network_control_entries">
+        <item>всегда открыта</item>
+        <item>только на сети WLAN</item>
+        <item>всегда выключен</item>
+    </string-array>
+    <string-array name="network_control_entries_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="online_listen_download_entries">
+        <item>всегда открыта</item>
+        <item>только на сети WLAN</item>
+    </string-array>
+    <string-array name="online_listen_download_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="equalize_key">
+        <item>Normal</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Flat</item>
+        <item>Heavy Metal</item>
+        <item>Classical</item>
+        <item>Jazz</item>
+        <item>Dance</item>
+        <item>Hip Hop</item>
+    </string-array>
+    <string-array name="equalize_values">
+        <item>Normal</item>
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Flat</item>
+        <item>Heavy Metal</item>
+        <item>Classical</item>
+        <item>Jazz</item>
+        <item>Dance</item>
+        <item>Hip Hop</item>
+    </string-array>
+</resources>

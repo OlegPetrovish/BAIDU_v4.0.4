@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="olog_totalsizelimit_entries">
+        <item>100 Мб</item>
+        <item>200 Мб</item>
+        <item>400 Мб</item>
+        <item>800 Мб</item>
+        <item>Безлимитный</item>
+    </string-array>
+    <string-array name="olog_totalsizelimit_values">
+        <item>100 Мб</item>
+        <item>200 Мб</item>
+        <item>400 Мб</item>
+        <item>800 Мб</item>
+        <item>Безлимитный</item>
+    </string-array>
+</resources>
