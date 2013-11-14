@@ -22,10 +22,10 @@
     <string name="next">В следующий раз</string>
     <string name="now_update">Обновить сейчас</string>
     <string name="traffic_dialog_ok">ОК</string>
-    <string name="traffic_mb">Mб</string>
-    <string name="traffic_gb">Gб</string>
-    <string name="traffic_b">B</string>
-    <string name="traffic_kb">Kб</string>
+    <string name="traffic_mb">Гб</string>
+    <string name="traffic_gb">Гб</string>
+    <string name="traffic_b">б</string>
+    <string name="traffic_kb">Кб</string>
     <string name="traffic_setting_nothing">Не установлено</string>
     <string name="traffic_setting_auto_adjust_sub_title_init">каждые 3 дня</string>
     <string name="notification_title">Система безопасности Baidu на защите Вашего устройства</string>

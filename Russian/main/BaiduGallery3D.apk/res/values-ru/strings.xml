@@ -52,8 +52,8 @@
     <string name="save_photo">Сохранить изменения?</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
-    <string name="save">Сохр.</string>
     <string name="autofix">Авто</string>
+    <string name="crop">Обрезка</string>
     <string name="crossprocess">Кросс-обработка</string>
     <string name="documentary">Документальные</string>
     <string name="doodle">Подмалевок</string>

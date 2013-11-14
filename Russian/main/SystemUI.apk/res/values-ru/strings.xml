@@ -127,7 +127,7 @@
     <string name="accessibility_clear_all">Удалить все уведомления</string>
     <string name="battery_low_use_super_mode">Макс. энергосбережение</string>
     <string name="battery_low_use_in_super_mode">Уровень заряда слишком низкий, подключите зарядное устройство</string>
-    <string name="battery_low_use_super_mode_info">Это можно изменить в Настройках > Батарея</string>
+    <string name="battery_low_use_super_mode_info">Это можно изменить в Настройках > Батарея.
 
 "</string>
     <string name="battery_low_use_super_mode_button">OK</string>
